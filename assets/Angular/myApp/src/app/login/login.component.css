@@ -1,0 +1,21 @@
+.circle span {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 90px;
+}
+.circle {
+    background: #9E9E9E;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    position: relative;
+}
+
+.cricle{
+top: 27%;
+    position: absolute;
+}
